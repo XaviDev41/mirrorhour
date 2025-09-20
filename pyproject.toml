@@ -9,7 +9,7 @@ description = "Utilities to detect and work with mirror hours (HH:HH) in local t
 readme = "README.md"
 requires-python = ">=3.9"
 license = {text = "MIT"}
-authors = [{name = "Tu Nombre", email = "tu@email"}]
+authors = [{name = "XaviDev41", email = "4152@xavi.com.es"}]
 keywords = ["time", "datetime", "mirror hour", "hora espejo"]
 classifiers = [
   "Programming Language :: Python :: 3",
@@ -18,8 +18,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/tuusuario/mirrorhour"
-Issues = "https://github.com/tuusuario/mirrorhour/issues"
+Homepage = "https://github.com/XaviDev41/mirrorhour"
+Issues = "https://github.com/XaviDev41/mirrorhour/issues"
 
 [project.optional-dependencies]
 cli = ["tzdata>=2024.1"]
