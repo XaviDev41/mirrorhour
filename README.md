@@ -1,3 +1,6 @@
+
+[![PyPI version](https://img.shields.io/pypi/v/mirrorhour.svg?logo=pypi)](https://pypi.org/project/mirrorhour/)
+
 # mirrorhour
 
 Utilities to detect and work with **mirror hours** (when hour and minute are equal, e.g., `11:11`, `22:22`) in local time or any IANA timezone. Provides a tiny **Python API** and a **CLI**.
